@@ -18,16 +18,3 @@ for i in numbers:
 
 print('Primes:', primes)
 print('Not Primes:', not_primes)
-
-
-
-
-
-
-
-
-    # if i % 1 == 0:
-#         primes.append(i)
-#     if i % 2 == 0:
-#         not_primes.append(i)
-
